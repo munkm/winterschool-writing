@@ -4,5 +4,5 @@ carbon is a metal?
 thorium 
 protactinium
 uranium
-neptunium
+radium 
 plutonium 
