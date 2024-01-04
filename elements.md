@@ -5,4 +5,6 @@ thorium
 protactinium
 uranium
 radium 
-plutonium 
+plutonium
+americium 
+curium 
