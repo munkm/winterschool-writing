@@ -7,3 +7,4 @@ radium
 plutonium
 americium 
 curium 
+uranium
