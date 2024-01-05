@@ -3,8 +3,8 @@ helium
 carbon is a metal? 
 thorium 
 protactinium
-uranium
 radium 
 plutonium
 americium 
 curium 
+uranium
